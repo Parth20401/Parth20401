@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Parth Dayal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Parth20401&label=Profile%20views&color=0e75b6&style=flat" alt="tryamb" /> </p>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1280/0*YJ8hl_TbIxeGpLBl">
+<img align="right" alt="coding" width="400" src="https://devblogs.microsoft.com/python/wp-content/uploads/sites/12/2019/10/variable_explorer.gif">
 
 - 🌱 Have got good grasp in **Classical ML algorithms(Regression,Classification,Clustering)**
 
