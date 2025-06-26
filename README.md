@@ -3,9 +3,9 @@
 
 <img align="right" alt="coding" width="400" src="https://devblogs.microsoft.com/python/wp-content/uploads/sites/12/2019/10/variable_explorer.gif">
 
-- 🌱 Have got good grasp in **Classical ML algorithms(Regression,Classification,Clustering)**
+- 🌱 Experience building scalable AI solutions using LLMs, RAG pipelines, and Vertex AI on GCP
 
-- 💬 Basic Understanding about **Image processing algorithms,tensorflow,keras**
+- 💬 Solid foundation in ML algorithms with hands-on work in NLP, embeddings, and real-world automation
 
 - 📫 Reach me at **parthdayal24@gmail.com**
 
